@@ -1,6 +1,7 @@
 body{
    background: rgb(70, 142, 236);
    font: normal 15pt Arial;
+   margin: 0;
 }
 
 header{
@@ -23,7 +24,8 @@ div{
 }
 
 footer{
-   color: white;
+   color: black;
+   background-color: white;
    text-align: center;
    font-style: italic;
 }
