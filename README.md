@@ -1,2 +1,2 @@
 # Dia
- Turno do dia
+ Verifica o período do dia e mostra uma imagem correspondente...
